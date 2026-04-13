@@ -23,7 +23,7 @@ const Dashboard: React.FC = () => {
               <div>
                 <h2 className="text-lg lg:text-xl font-medium text-gray-900 mb-2">Revenue Overview</h2>
                 <p className="text-sm lg:text-base text-gray-600">
-                  Monthly performance insights for your properties
+                  All-time reservation revenue totals per property (not a single calendar month).
                 </p>
               </div>
               
